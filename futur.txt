@@ -8,6 +8,15 @@ Pour le scrapping :
 
 Pour les images : 
  - RoomNet pour savoir de quelles pièces il s'agit : https://github.com/ironhide23586/RoomNet
+ Pour RoomNet, pour l'instant ça fonctionne simplement. J'ai du changer la version de tensorflow appelée dans le network.py (ne marche qu'avec la v1).
+ Le modèle fonctionne de la manière suivante : on donne dans le fichier infer.py le path vers le modèle (ne change jamais), le path vers le dossier qui contient les images qu'on veut traiter, et le 
+ path vers un .txt qui contient les paths des images du dossier elles-mêmes (j'ai utilisé le path absolu).
+
+ De plus, j'ai changé pour l'instant le path des .csv de la fonction "classify_im_dir" de infer.py pour les retrouver plus simplement. A terme, ils seront tous dans un même dossier à part.
+ Le .csv qui sort à chaque fois contient trois colonnes : le nom de l'image, le label prédit et enfin la confiance dans la catégorie choisie.
+
+Il faudra donc faire boucler le modèle sur l'ensemble des dossiers des images et enregistrer l'ensemble des .csv dans un seul et même dossier, pour après effectuer les traitements voulus
+
  - Faire comme le benchmark de base (couleurs RGB, teintes de gris...)
 
 
