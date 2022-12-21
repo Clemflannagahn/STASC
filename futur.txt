@@ -1,3 +1,5 @@
+Mieux tuner XGBoost : max depth ? ...
+
 Pour le scrapping :
  - features pour la population de la ville
  - feature de la population du voisinage (sur un rayon donné)
