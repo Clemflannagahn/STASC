@@ -1,0 +1,11 @@
+Pour le scrapping :
+ - features pour la population de la ville
+ - feature de la population du voisinage (sur un rayon donné)
+ - feature des services environnants
+ - feature du prix moyen par code postal (https://www.meilleursagents.com/prix-immobilier)
+
+Pour les images : 
+ - RoomNet pour savoir de quelles pièces il s'agit : https://github.com/ironhide23586/RoomNet
+ - Faire comme le benchmark de base (couleurs RGB, teintes de gris...)
+
+
