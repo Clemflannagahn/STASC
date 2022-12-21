@@ -9,3 +9,17 @@ Pour les images :
  - Faire comme le benchmark de base (couleurs RGB, teintes de gris...)
 
 
+1. Google Cloud Vision API: This API can analyze the contents of an image and provide information about the objects, people, and other elements it contains. It could potentially be used to predict the layout of a room by identifying the positions of furniture and other objects.
+2. Amazon Rekognition: This API can analyze images and videos and detect objects, people, and other elements. It could potentially be used to predict the layout of a room by identifying the positions of furniture and other objects.
+3. Clarifai: This API can analyze images and videos and detect objects, people, and other elements. It could potentially be used to predict the layout of a room by identifying the positions of furniture and other objects.
+
+RoomNet
+
+1. PointNet: This is a deep learning model for 3D object classification and segmentation. It could potentially be used to predict the layout of a room by identifying the positions of furniture and other objects in a 3D point cloud generated from the input image.
+2. Mask R-CNN: This is a deep learning model for object detection and instance segmentation. It could potentially be used to predict the layout of a room by identifying the positions of furniture and other objects in the input image.
+3. Neural Room: This is a deep learning model for room layout estimation. It has been trained on a dataset of 2D floor plans and 3D models, and can predict the layout of a room given an input image.
+
+1. VGG-16: This is a pre-trained convolutional neural network (CNN) for image classification. It has been trained on the ImageNet dataset, which contains a large number of images labeled with object categories. You could potentially use this model to predict the quality of a room by training it on a dataset of images of rooms labeled with quality scores. To do this, you would need to fine-tune the model by adding a new layer on top of the pre-trained layers and training it to predict the quality of a room based on the features learned by the pre-trained layers.
+
+1. MobileNet: This is a pre-trained CNN designed for use on mobile devices. It has been trained on the ImageNet dataset and could potentially be fine-tuned for the task of predicting the quality of a room.
+2. DenseNet: This is a pre-trained CNN that uses dense connections between layers. It has been trained on the ImageNet dataset and could potentially be fine-tuned for the task of predicting the quality of a room.
