@@ -35,4 +35,4 @@ RoomNet
 1. MobileNet: This is a pre-trained CNN designed for use on mobile devices. It has been trained on the ImageNet dataset and could potentially be fine-tuned for the task of predicting the quality of a room.
 2. DenseNet: This is a pre-trained CNN that uses dense connections between layers. It has been trained on the ImageNet dataset and could potentially be fine-tuned for the task of predicting the quality of a room.
 
-n_estimators=3600,max_depth = 9,learning_rate=0.08,colsample_bytree=0.5, subsample=0.9
+n_estimators=5000,max_depth = 9,learning_rate=0.08,colsample_bytree=0.5, subsample=0.9
