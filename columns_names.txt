@@ -1,0 +1,143 @@
+id_annonce
+property_type
+approximate_latitude
+approximate_longitude
+city
+postal_code
+size
+floor
+land_size
+energy_performance_value
+energy_performance_category
+ghg_value
+ghg_category
+exposition
+nb_rooms
+nb_bedrooms
+nb_bathrooms
+nb_parking_places
+nb_boxes
+nb_photos
+has_a_balcony
+nb_terraces
+has_a_cellar
+has_a_garage
+has_air_conditioning
+last_floor
+upper_floors
+departement
+CODGEO
+Nb Pharmacies et parfumerie
+Dynamique Entrepreneuriale
+Dynamique Entrepreneuriale Service et Commerce
+Synergie Médicale COMMUNE
+Indice Fiscal Partiel
+Score Fiscal
+Indice Evasion Client
+Score Evasion Client
+Indice Synergie Médicale
+Score Synergie Médicale
+REG
+Nb Omnipraticiens BV
+Nb Infirmiers Libéraux BV
+Nb dentistes Libéraux BV
+Nb pharmaciens Libéraux BV
+Densité Médicale BV
+Score équipement de santé BV
+Indice Démographique
+Score Démographique
+Indice Ménages
+Score Ménages
+Population
+Evolution Population
+Evolution Pop %
+Nb Ménages
+Nb Résidences Principales
+Nb propriétaire
+Nb Logement
+Nb Résidences Secondaires
+Nb Log Vacants
+Nb Occupants Résidence Principale
+Nb Femme
+Nb Homme
+Nb Mineurs
+Nb Majeurs
+Nb Etudiants
+Nb Entreprises Secteur Services
+Nb Entreprises Secteur Commerce
+Nb Entreprises Secteur Construction
+Nb Entreprises Secteur Industrie
+Nb Création Enteprises
+Nb Création Industrielles
+Nb Création Construction
+Nb Création Commerces
+Nb Création Services
+Moyenne Revenus Fiscaux Départementaux
+Moyenne Revenus Fiscaux Régionaux
+Dep Moyenne Salaires Horaires
+Dep Moyenne Salaires Cadre Horaires
+Dep Moyenne Salaires Prof Intermédiaire Horaires
+Dep Moyenne Salaires Employé Horaires
+Dep Moyenne Salaires Ouvrié Horaires
+Reg Moyenne Salaires Horaires
+Reg Moyenne Salaires Cadre Horaires
+Reg Moyenne Salaires Prof Intermédiaire Horaires
+Reg Moyenne Salaires Employé Horaires
+Reg Moyenne Salaires Ouvrié Horaires
+Valeur ajoutée régionale
+Score Urbanité
+Nb Atifs
+Nb Actifs Salariés
+Nb Actifs Non Salariés
+Nb Logement Secondaire et Occasionnel
+Nb Hotel
+Capacité Hotel
+Nb Camping
+Capacité Camping
+Taux étudiants
+Taux Propriété
+Dynamique Démographique INSEE
+Capacité Fisc
+Capacité Fiscale
+Moyenne Revnus fiscaux
+Taux Evasion Client
+Nb Education, santé, action sociale
+Nb Services personnels et domestiques
+Nb Santé, action sociale
+Nb Industries des biens intermédiaires
+Nb de Commerce
+Nb de Services aux particuliers
+Nb institution de Education, santé, action sociale, administration
+PIB Régionnal
+Score Croissance Population
+Score Croissance Entrepreneuriale
+Score VA Région
+Score PIB
+X
+ID
+INSEE_COM
+INSEE_DEP
+INSEE_REG
+CODE_EPCI
+NOM_COM_M
+POPULATION
+Nb_Ventes
+PrixMoyen_M2
+PrixMoyen_M2_1819
+loyer_apparts
+loyer_maisons
+R2appart
+R2maison
+INSEE_ARR
+Prix_2017
+Unnamed: 0
+Nb_Transac
+Prix_2018
+nearly_price_inflation
+Backyard
+Bathroom
+Bedroom
+Frontyard
+Kitchen
+LivingRoom
+score
